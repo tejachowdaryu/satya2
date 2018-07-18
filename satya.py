@@ -1,7 +1,7 @@
-z=int(raw_input())
-if z> 0:
+pp=int(raw_input())
+if pp> 0:
    print(" Positive ")
-elif z==0:
+elif pp==0:
 	print("zero")
    	
 else:
